@@ -35,6 +35,7 @@ class SentimentAnalysis:
         # authenticating
         
         #add project's keys before running
+        #take twitter api from https://developer.twitter.com/en/products/twitter-api 
         consumerKey = ''
         consumerSecret = ''
         accessToken = ''
